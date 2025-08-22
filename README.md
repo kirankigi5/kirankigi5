@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Kiran
 
-- 🚀 Incoming MSCS student at NYU Courant
+- 🚀 MSCS student at NYU Courant
 - 💻 Passionate Software Engineer with interests in AI and Machine Learning
-- 🎓 Graduated with Honours from IIIT Hyderabad
 - 🔎 Focused on building and deploying web and mobile applications
-- 🏆 Achievements: JEE Main 2020 AIR 819, JEE Advanced AIR 3601, APAMT Olympiad State Rank 5
+- 🏆 Achievements: JEE Main 2020 AIR 819, JEE Advanced AIR 3601
 
 ## 🛠️ Tech Stack
 - Python, C++, JavaScript, SQL, React
