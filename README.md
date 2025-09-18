@@ -255,23 +255,11 @@
 
 - 🏏 **Cricket Enthusiast**: Played at district level during school
 - 🍳 **Cooking Passion**: Love experimenting with Indian and international cuisines
-- ♟️ **Chess Player**: Rated 1800+ on Chess.com
 - 📚 **Bookworm**: Currently reading "Designing Data-Intensive Applications"
 - 🎵 **Music**: Learning to play the guitar in my free time
-- 🌱 **Green Thumb**: Growing herbs and vegetables in my apartment
-- 🏃‍♂️ **Fitness**: Marathon runner (completed NYC Marathon 2023)
+- 🏃‍♂️ **Fitness**: Marathon runner
 
 </details>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
