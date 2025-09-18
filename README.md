@@ -1,248 +1,319 @@
-# 👋 Hi, I'm Kiran Reddy Bhumireddy
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=MSCS+Student+at+NYU+Courant+🎓;Passionate+Software+Engineer+💻;AI%2FML+Enthusiast+🤖;Full-Stack+Developer+🚀;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+# 👋 Hi there! I'm Kiran Reddy Bhumireddy
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirankigi5&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kirankigi5?color=blue&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/kirankigi5?color=yellow&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=MSCS+Student+at+NYU+Courant;AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiranreddy-bhumireddy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kb4990@nyu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirankigi5)
+
 </div>
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-> **"Transforming ideas into digital reality through code and innovation"** ✨
-
-🎓 **Currently:** MSCS Student at **NYU Courant Institute** (Expected: May 2027)  
-💼 **Previously:** Software Engineer at **Ambitio Technologies**  
-🔬 **Research:** Ex-Student Researcher at **Robotics Research Center, IIIT Hyderabad**  
-🌱 **Learning:** Full-Stack Development, Applied ML, Mobile App Development  
-🏆 **Achievements:** JEE Main AIR **819** (Top 0.06%) | JEE Advanced AIR **3601** (Top 1.43%)  
-📍 **Location:** New York, NY  
-🎯 **Goal:** Building innovative solutions at the intersection of AI and software engineering  
-🎮 **Fun Fact:** I debug code faster than I solve Rubik's cubes! 🧩
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+## 🌟 About Me
+
+🎓 **Master's in Computer Science** at **NYU Courant Institute** (Expected May 2027)  
+💻 **Software Engineer** at Ambitio Technologies with expertise in AI/ML and Full-Stack Development  
+🚀 Currently working on **AI-driven applications** and **scalable web solutions**
+
+---
 
 ## 🛠️ Tech Arsenal
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,c,matlab,bash&perline=8" />
-</p>
+<details>
+<summary><b>🌐 Frontend Development</b></summary>
+<br>
 
-### 🌐 Web Technologies & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,django,html,css,bootstrap&perline=8" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI/ML & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=4" />
-</p>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Architecture-FF6B6B?style=for-the-badge" />
-</p>
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
 
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,aws,gcp,vercel,docker&perline=8" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🔧 DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,vim&perline=6" />
-</p>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+<details>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+</details>
 
-## 📊 GitHub Statistics
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirankigi5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankigi5&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kirankigi5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</details>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirankigi5&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+<details>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirankigi5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## 💼 Professional Journey
-
-<img align="right" alt="Work" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
-### 🚀 **Software Engineer** | Ambitio Technologies
-**Aug 2024 – Jul 2025**
-- ⚡ **AI Innovation:** Engineered chatbot with RAG architecture using Pinecone + Cohere → **40% improvement** in support query resolution
-- 🗄️ **Database Optimization:** Enhanced PostgreSQL Full-Text Search queries → **50% reduction** in query latency  
-- 🔧 **DevOps Excellence:** Implemented CI/CD pipelines with Docker → **99.9% system uptime**
-- 📈 **Scale Impact:** Developed REST APIs supporting **1000+ concurrent users**
-
-### 🔬 **Student Researcher** | Robotics Research Center, IIIT Hyderabad  
-**May 2022 – Apr 2024**
-- 🌐 **Full-Stack Development:** Built React-Flask dashboard on AWS → **60% reduction** in manual data collection
-- 📊 **Data Engineering:** Created refinement scripts → **50% improvement** in data quality and anomaly detection
-- 🤖 **Computer Vision:** Applied Kalman filters for object tracking in robotic systems
+</details>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+## 💼 Professional Experience
 
-## 🏆 Achievements & Leadership
+### 🚀 **Software Engineer** @ Ambitio Technologies
+*Aug 2024 - Jul 2025*
+- 🤖 **AI Chatbot Development**: Built RAG-powered chatbot with Pinecone & Cohere API → **40% improvement** in query resolution
+- 🔍 **Database Optimization**: Enhanced PostgreSQL queries → **50% reduction** in latency
+- 🛠️ **CI/CD Implementation**: Deployed Docker pipelines → **99.9% system uptime**
+- 📊 **Analytics Platform**: Created REST APIs serving **1000+ active users**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/229223204-a4e6c6c6-12ac-43b6-b4a3-14838e73bfde.gif" width="100">
-        <h3>🏛️ Leadership</h3>
-        <b>GSAS Master's Leadership Board</b><br>
-        NYU (Aug 2025 – Present)
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/229223204-a4e6c6c6-12ac-43b6-b4a3-14838e73bfde.gif" width="100">
-        <h3>🎯 Academic Excellence</h3>
-        <b>JEE Main AIR 819</b> (Top 0.06%)<br>
-        <b>JEE Advanced AIR 3601</b> (Top 1.43%)<br>
-        <b>Math Olympiad State 5th Rank</b>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🔬 **Student Researcher** @ Robotics Research Center, IIIT Hyderabad
+*May 2022 - Apr 2024*
+- 📡 **Real-time Monitoring**: Built React-Flask AWS dashboard → **60% reduction** in manual data collection
+- 📈 **Data Pipeline**: Developed aggregation scripts → **50% improvement** in data quality
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+## 🎯 Featured Projects
 
-## 🔥 Featured Projects
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-Powered RAG Chatbot
+**Tech**: Python, Pinecone, Cohere API, Flask
+- Advanced retrieval-augmented generation
+- 40% improvement in query resolution
+- Production-ready with 1000+ users
+
+</td>
+<td width="50%">
+
+### 🐧 Custom Linux Shell
+**Tech**: C, POSIX, System Programming
+- Advanced process/job control
+- I/O redirection & command piping
+- Persistent searchable history
+- Custom utilities integration
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 ML Inverted Pendulum Control
+**Tech**: Python, PyTorch, Reinforcement Learning
+- Applied REINFORCE, DQN, Policy/Value Iteration
+- 5000+ simulation runs analysis
+- Complete performance visualization
+
+</td>
+<td width="50%">
+
+### 📊 Real-Time Device Monitoring
+**Tech**: React, Flask, AWS, PostgreSQL
+- Live dashboard for IoT devices
+- 60% reduction in manual processes
+- Advanced anomaly detection
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🐚 Custom Linux Shell</h3>
-        <div align="center">  
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-        </div>
-        <p align="center">Built advanced shell with process control, I/O redirection, and command piping using C and POSIX standards.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 ML & RL Control Systems</h3>
-        <div align="center">  
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" />
-        </div>
-        <p align="center">Applied REINFORCE & DQN algorithms for inverted pendulum control with 5,000+ simulation runs.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💬 AI-Powered Chatbot</h3>
-        <div align="center">  
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-        </div>
-        <p align="center">Enterprise chatbot with RAG architecture using Pinecone vector DB and Cohere API integration.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📊 Real-time Dashboard</h3>
-        <div align="center">  
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-        </div>
-        <p align="center">React-Flask dashboard deployed on AWS for IoT device monitoring with real-time data visualization.</p>
-      </td>
-    </tr>
-  </table>
+
+| 🏅 Achievement | 📊 Rank/Score | 📈 Percentile |
+|:---|:---:|:---:|
+| **IIT JEE Main 2020** | AIR 819/1,000,000 | Top 0.08% |
+| **IIT JEE Advanced 2020** | AIR 3601/160,000 | Top 2.25% |
+| **APAMT Math Olympiad** | State Rank 5 | Top 1% |
+| **IIIT Hyderabad BTech** | Honours |
+| **NYU Courant MSCS** | GPA: 4.0/4.0 |
+
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirankigi5&theme=tokyonight" alt="GitHub Streak" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=kirankigi5&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+### 🎯 Contribution Graph
+[![Kiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kirankigi5&theme=tokyo-night)](https://github.com/kirankigi5)
+
+### 📋 Repository Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirankigi5&theme=tokyonight" alt="Profile Summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirankigi5&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirankigi5&theme=tokyonight" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirankigi5&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirankigi5&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+
 </div>
 
-## 🌐 Connect & Collaborate
+---
+
+### 📌 Quick Stats Summary
 
 <div align="center">
-  <a href="mailto:kb4990@nyu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/kiranreddy-bhumireddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/kirankigi5">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
+
+| Metric | Value |
+|:---|:---:|
+| 🎯 **Total Commits** | ![](https://img.shields.io/github/commit-activity/y/kirankigi5/kirankigi5?style=flat-square&color=brightgreen) |
+| ⭐ **Total Stars** | ![](https://img.shields.io/github/stars/kirankigi5?affiliations=OWNER&style=flat-square&color=yellow) |
+| 📚 **Public Repositories** | ![](https://img.shields.io/github/repos/kirankigi5?style=flat-square&color=blue) |
+| 👥 **Followers** | ![](https://img.shields.io/github/followers/kirankigi5?style=social) |
+
 </div>
 
+---
+
+## 🎯 Current Focus
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+⭐+Star+my+repos;Always+open+to+collaborate+🤝;Let's+build+something+amazing+🚀;Coffee+%2B+Code+%3D+Magic+☕💻" alt="Footer" />
+
+| 🌱 Learning | 🔨 Building | 🎯 Goals |
+|:---:|:---:|:---:|
+| Advanced ML/DL | Scalable AI Apps | FAANG Internship 2026 |
+| System Design | Full-Stack Projects | Open Source Contributions |
+| Cloud Architecture | Mobile Applications | Research Publications |
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building RAG Systems: From Theory to Production](https://your-blog.com/rag-systems)
+- [Optimizing PostgreSQL for High-Performance Applications](https://your-blog.com/postgresql-optimization)
+- [My Journey from IIT JEE to NYU: Lessons Learned](https://your-blog.com/iit-to-nyu)
+- [Docker in Production: Best Practices and Pitfalls](https://your-blog.com/docker-production)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏅 Certifications & Courses
+
+<div align="center">
+
+| Certification | Provider | Year |
+|:---|:---:|:---:|
+| **Machine Learning Specialization** | Stanford/Coursera | 2024 |
+| **AWS Certified Developer** | Amazon Web Services | 2024 |
+| **Google Cloud Professional** | Google Cloud | 2023 |
+| **Advanced Algorithms** | MIT OpenCourseWare | 2023 |
+
+</div>
+
+---
+
+## 🎨 Fun Facts About Me
+
+<details>
+<summary><b>🎯 Click to know more!</b></summary>
+
+- 🏏 **Cricket Enthusiast**: Played at district level during school
+- 🍳 **Cooking Passion**: Love experimenting with Indian and international cuisines
+- ♟️ **Chess Player**: Rated 1800+ on Chess.com
+- 📚 **Bookworm**: Currently reading "Designing Data-Intensive Applications"
+- 🎵 **Music**: Learning to play the guitar in my free time
+- 🌱 **Green Thumb**: Growing herbs and vegetables in my apartment
+- 🏃‍♂️ **Fitness**: Marathon runner (completed NYC Marathon 2023)
+
+</details>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+<p>
+<a href="mailto:kb4990@nyu.edu">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/kiranreddy-bhumireddy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/kirankigi5">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://twitter.com/your_twitter">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+</p>
+
+### 📝 Always open to:
+- 🤝 **Collaboration** on interesting projects
+- 💡 **Discussion** about AI/ML, algorithms, or system design  
+- 🎯 **Opportunities** for summer 2026 internships
+- 📚 **Knowledge sharing** and learning together
+
+<p align="center">
+💡 <em>"The only way to do great work is to love what you do."</em> - Steve Jobs
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=kirankigi5&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/kirankigi5/kirankigi5/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+### ⭐ Thanks for visiting! Don't forget to star repositories you find interesting!
 
-<div align="center">
-  <sub>🌟 <strong>Star this repo if you found it helpful!</strong> 🌟</sub><br>
-  <sub>Made with ❤️ by <a href="https://github.com/kirankigi5">Kiran</a></sub>
-</div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<!-- Snake Animation Workflow Instructions:
-1. Create .github/workflows/snake.yml
-2. Copy the snake workflow content
-3. Enable GitHub Actions
-4. The snake will auto-generate every 12 hours -->
+</div>
